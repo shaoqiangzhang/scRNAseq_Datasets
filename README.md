@@ -1,8 +1,5 @@
 # Collection of some scRNA-seq datasets
 
-# URLs of some scRNA-seq datasets
-
-
 ## Goolam's dataset
 
 https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-3321/E-MTAB-3321.processed.1.zip
